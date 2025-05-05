@@ -1,0 +1,89 @@
+/* General Background Style */
+.background {
+    background-size: contain; /* Cover the entire area */
+    width: 100%; /* Full width */
+    height: 100vh; /* Full height of the viewport */
+    background-color: #f0f0f0; /* Fallback color */
+  }
+  
+  /* Container Background Style */
+  .container-background {
+    padding: 20px; /* Padding for the container */
+  }
+  
+  .lead {
+    color: rgb(7, 0, 0); /* Change text color */
+  }
+  
+  /* Feature Box Styles */
+  .feature-box {
+    transition: transform 0.3s; /* Smooth transition for hover effect */
+    background-color: rgb(175, 227, 241);
+    color: #092844;
+  }
+  
+  .feature-box:hover {
+    transform: scale(1.05); /* Scale effect on hover */
+  }
+  
+  .display-5 {
+    color: #ae3e05;
+    font-size: 60px;
+    font-weight: 400;
+  }
+  
+  .mt-3 {
+    font-size: large;
+  }
+  
+  /* Slideshow Styles */
+  .slideshow {
+    position: relative;
+    width: 100%; /* Full width */
+    height: 500px; /* Set height as needed */
+    overflow: hidden; /* Hide overflow */
+  }
+  
+  .slide {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0; /* Start with hidden slides */
+    transition: opacity 1s ease-in-out; /* Smooth transition */
+  }
+  
+  .slide img {
+    width: 100%; /* Make images responsive */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Cover the entire slide */
+    border-radius: 10px; /* Add some rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Keyframes for slideshow */
+  @keyframes slideAnimation {
+    0% { opacity: 0; }
+    10% { opacity: 1; }
+    25% { opacity: 1; }
+    35% { opacity: 0; }
+  }
+  
+  .slide:nth-child(1) {
+    animation: slideAnimation 10s infinite; /* Adjust duration as needed */
+  }
+  
+  .slide:nth-child(2) {
+    animation: slideAnimation 10s infinite 2.5s; /* Delay for the second slide */
+  }
+  
+  .slide:nth-child(3) {
+    animation: slideAnimation 10s infinite 5s; /* Delay for the third slide */
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #6c6e6f; /* Footer background color */
+    color: rgb(255, 255, 255); /* Footer text color */
+    padding: 10px 0; /* Padding for footer */
+  }
+  
