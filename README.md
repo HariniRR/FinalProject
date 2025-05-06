@@ -78,8 +78,10 @@ Home Page
 ### 6. Counsellor Module
 - Counsellors manage session bookings easily.
 - Access to client details for better guidance.
-
-![Counsellor](https://github.com/user-attachments/assets/3fc2a7c0-1efa-44d8-a77f-4c06c77b1253)
+- 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3fc2a7c0-1efa-44d8-a77f-4c06c77b1253" alt="Counsellor" width="650"/>
+</p>
 
 ### 7. Admin Module
 - Admin dashboard to manage users, feedback, and inquiries.
