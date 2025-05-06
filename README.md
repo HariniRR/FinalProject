@@ -66,6 +66,9 @@ Home Page
 
 ![legal resource2](https://github.com/user-attachments/assets/e609fdf1-4f95-46b8-bf75-cf37cada3040)
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4ebb00e9-0a14-4128-928c-a66982749f9c" alt="WomenRightsOP" width="650"/>
+</p>
 
 ### 5. Activity Module
 - Fun games and quizzes on rights, safety, and mental wellness.
