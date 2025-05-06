@@ -8,16 +8,9 @@ The platform starts at the home page, leading to sign-in for users, counsellors,
 </p>
 
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT/Bcrypt
-
 ## 🌟 Key Features
 
-- **Secure Authentication** – Signup and login with strong data protection.
+- **Secure Authentication** – Signup and login based on Roles (User, Counsellor, Admin)
 - **Personalized Profiles** – Customize user experience based on preferences.
 - **Virtual Counselling** – Book private sessions with expert counsellors.
 - **Interactive Learning** – Play games and take quizzes to learn about rights and safety.
