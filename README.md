@@ -85,6 +85,10 @@ Home Page
 - Admin dashboard to manage users, feedback, and inquiries.
 - Ensures smooth running of all platform components.
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/058ba96f-c018-49b6-a266-d6651f374262" alt="Admin" width="600"/>
+</p>
+
 ![Admn2](https://github.com/user-attachments/assets/c4217ad2-7174-411f-876f-65bed6ad21d2)
 
 ---
